@@ -9,4 +9,5 @@ All commands inside the Bash terminal
 Even the process of making a Pull Request within GitHub.
 Created by me with &alt;3
 Examples on Windows, Linux & Mac included
+For everyone
 This is not a very complete READ.me, but I will improve it.
